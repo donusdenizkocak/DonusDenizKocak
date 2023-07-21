@@ -1,5 +1,5 @@
 ### Hi there 👋
-<img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px>
+<img align="right" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width = 250px>
 </br>
 
 ## 👷🏻‍♀️👋🏻 Hi there, I'm Dönüş Deniz KOÇAK
