@@ -100,7 +100,7 @@ Project Demo       |Libraries and Technologies I use  |Project Preview
  <h3>[Repo](https://github.com/donusdenizkocak/stock-app-redux-django)</h3>
  | React - Material UI - Tremor - Toastify - Formik - Yup - Axios - Redux Toolkit - Router |<img src="https://media.giphy.com/media/8nqN2poJHWyHU5ygVb/giphy.gif" align="right" width="500">
 
-[React - State - Hook -  Router - DarkTheme](https://github.com/donusdenizkocak/recap-project) <h3>[RecipeAPP](https://react-project-recipe-app1.netlify.app/)</h3> <h3>[Repo](https://react-project-recipe-app1.netlify.app/)</h3> | React - State - Hook -  Router - DarkTheme |<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGE3OTk3MDJjYjgyYzJiNjRkZDFkNjg5Y2RjZGE3MzZiZDhlZjRmNCZjdD1n/J7M13Sg7Yr80HAk971/giphy.gif" align="right" width="500">
+[React - State - Hook -  Router - DarkTheme](https://github.com/donusdenizkocak/recap-project) <h3>[RecipeAPP]</h3> <h3></h3> | React - State - Hook -  Router - DarkTheme |<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGE3OTk3MDJjYjgyYzJiNjRkZDFkNjg5Y2RjZGE3MzZiZDhlZjRmNCZjdD1n/J7M13Sg7Yr80HAk971/giphy.gif" align="right" width="500">
 
 [React - State - Hook](https://github.com/donusdenizkocak/appointment-app) <h3>[AppointmentApp](https://github.com/donusdenizkocak/appointment-app)</h3> | React - State - Hook |<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTIwNmQ0MjY1MDkwOTg1MWE4MTAwNzZjMmRlZmFhYmY3MGM5Yjk0ZiZjdD1n/3FPtOfbd7ZSbTAZkfi/giphy.gif" align="right" width="500">
 
