@@ -1,4 +1,4 @@
-### Hi there 👋
+
 <img align="right" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width = 250px>
 </br>
 
@@ -11,7 +11,6 @@ Front End Developer </font>
 -Developed interactive, responsive and scalable frontend using HTML5, CSS3, JavaScript ES6, React,
 -Designing a website with HTML, CSS, SASS(SCSS) and Bootstrap-5 codes,
 -Support HTML and CSS projects using JS Dom manipulation and event listeners,
--Developing the payment page of the e-commerce website with JS functions using DOM, iterator, callback functions, string array functions and events,
 -Requesting apis using Async, Await and Fetch structures to view data from various platforms,
 -Enabling customers to make transactions on their websites using json, local storage, and array methods,
 -Using state hook and component structures in various projects
@@ -20,7 +19,7 @@ Front End Developer </font>
 -State management applied using React States and Redux,
 -Built a Dashboard page showing data related to users integrated with Database,
 -Experienced in writing modular and reusable codes, using build tools and package managers,
--Studied on Computational Thinking, Operating Systems, Linux, Version Control Systems(Git & Github), Software Development Life Cycle (SDLC),</font>
+-Studied on Computational Thinking, Operating Systems, Linux, Version Control Systems(Git & Github),</font>
 </br>
 <font color="pink">🎆 Reading is my greatest pleasure in life. </font>
 </br>
@@ -94,16 +93,12 @@ Front End Developer </font>
 
 Project Demo       |Libraries and Technologies I use  |Project Preview   
 :-------------------------|---------------------|------------------
-[React - Tailwind](https://react-project-movie-app-tailwind.netlify.app/) <h3>[MovieApp](https://movie-app-react-redux7.vercel.app/)</h3>  <h3>[Repo](https://github.com/donusdenizkocak/movie-app)</h3>| React - Tailwind - FireBase - DarkTheme - Router - Context - Pagination |<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzM3OWIwZTFmZTFlNDQ3YzQ3NjBlZWI1ZjJiYTIyMzJiYzQ3MTI3OCZjdD1n/vgou4kRMCh0YB0bK6c/giphy.gif" align="right" width="500">
-[React - Material UI -Tremor - Redux ](https://react-project-stockapp.netlify.app/) 
+[React - Tailwind](https://react-project-movie-app-tailwind.netlify.app/) <h3>[MovieApp]()</h3>  <h3>[Repo](https://github.com/donusdenizkocak/movie-app)</h3>| React - Tailwind - FireBase - DarkTheme - Router - Context - Pagination |<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzM3OWIwZTFmZTFlNDQ3YzQ3NjBlZWI1ZjJiYTIyMzJiYzQ3MTI3OCZjdD1n/vgou4kRMCh0YB0bK6c/giphy.gif" align="right" width="500">
 
- <h3>[Repo](https://github.com/donusdenizkocak/stock-app-redux-django)</h3>
+[React - Material UI -Tremor - Redux ](https://react-project-stockapp.netlify.app/) <h3>[StockApp-Admin-Panel](https://github.com/donusdenizkocak/stock-app-redux-django)</h3>
  | React - Material UI - Tremor - Toastify - Formik - Yup - Axios - Redux Toolkit - Router |<img src="https://media.giphy.com/media/8nqN2poJHWyHU5ygVb/giphy.gif" align="right" width="500">
 
-
-
-[React - State - Hook](https://github.com/donusdenizkocak/appointment-app) <h3>[AppointmentApp](https://github.com/donusdenizkocak/appointment-app)</h3> | React - State - Hook |<img src="./helpers/project.gif" align="right" width="500">
-
+[AppointmentApp](https://github.com/donusdenizkocak/appointment-app) <h3>[React - State - Hook](https://github.com/donusdenizkocak/appointment-app)</h3> | React - State - Hook |<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTIwNmQ0MjY1MDkwOTg1MWE4MTAwNzZjMmRlZmFhYmY3MGM5Yjk0ZiZjdD1n/3FPtOfbd7ZSbTAZkfi/giphy.gif" align="right" width="500">
 
 
 
