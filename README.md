@@ -6,7 +6,7 @@
 
 <font color="pink"> 🐱‍🏍 Frontend Developer  & Mentor | JavaScript | React | Redux | TypeScript | Tailwind | HTML | CSS | Bootstrap | Sass | Jira | Agile | Git | Medium Writer | Analytical Thinking
 Front End Developer </font>
-</br>
+</br></br>
 <font color="pink">
 -Developed interactive, responsive and scalable frontend using HTML5, CSS3, JavaScript ES6, React,
 -Designing a website with HTML, CSS, SASS(SCSS) and Bootstrap-5 codes,
