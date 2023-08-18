@@ -95,8 +95,11 @@ Project Demo       |Libraries and Technologies I use  |Project Preview
 :-------------------------|---------------------|------------------
 [React - Tailwind](https://react-project-movie-app-tailwind.netlify.app/) <h3>[MovieApp]()</h3>  <h3>[Repo](https://github.com/donusdenizkocak/movie-app)</h3>| React - Tailwind - FireBase - DarkTheme - Router - Context - Pagination |<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzM3OWIwZTFmZTFlNDQ3YzQ3NjBlZWI1ZjJiYTIyMzJiYzQ3MTI3OCZjdD1n/vgou4kRMCh0YB0bK6c/giphy.gif" align="right" width="500">
 
+
 [React - Material UI -Tremor - Redux ](https://react-project-stockapp.netlify.app/) <h3>[StockApp-Admin-Panel](https://github.com/donusdenizkocak/stock-app-redux-django)</h3>
  | React - Material UI - Tremor - Toastify - Formik - Yup - Axios - Redux Toolkit - Router |<img src="https://media.giphy.com/media/8nqN2poJHWyHU5ygVb/giphy.gif" align="right" width="500">
+
+
 
 [AppointmentApp](https://github.com/donusdenizkocak/appointment-app) <h3>[React - State - Hook](https://github.com/donusdenizkocak/appointment-app)</h3> | React - State - Hook |<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTIwNmQ0MjY1MDkwOTg1MWE4MTAwNzZjMmRlZmFhYmY3MGM5Yjk0ZiZjdD1n/3FPtOfbd7ZSbTAZkfi/giphy.gif" align="right" width="500">
 
