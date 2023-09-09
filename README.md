@@ -4,8 +4,7 @@
 
 ## 👷🏻‍♀️👋🏻 Hi there, I'm Dönüş Deniz KOÇAK
 
-<font color="pink"> 🐱‍🏍 Frontend Developer  & Math Teacher | JavaScript | React | Redux | TypeScript | Tailwind | HTML | CSS | Bootstrap | Sass | Jira | Agile | Git | Medium Writer | Analytical Thinking
-Front End Developer </font>
+<font color="pink"> 🐱‍🏍 Frontend Developer  & Math Teacher  </font>
 </br></br>
 <font color="pink"> 🐱‍🏍   React  | JavaScript |  Redux | TypeScript | Tailwind | HTML | CSS | Bootstrap | Sass | Jira | Agile | Git | Medium Writer | Analytical Thinking
 Front End Developer </font>
