@@ -4,22 +4,19 @@
 
 ## 👷🏻‍♀️👋🏻 Hi there, I'm Dönüş Deniz KOÇAK
 
-<font color="pink"> 🐱‍🏍 Frontend Developer  & Mentor | JavaScript | React | Redux | TypeScript | Tailwind | HTML | CSS | Bootstrap | Sass | Jira | Agile | Git | Medium Writer | Analytical Thinking
+<font color="pink"> 🐱‍🏍 Frontend Developer  & Math Teacher | JavaScript | React | Redux | TypeScript | Tailwind | HTML | CSS | Bootstrap | Sass | Jira | Agile | Git | Medium Writer | Analytical Thinking
 Front End Developer </font>
 </br></br>
+<font color="pink"> 🐱‍🏍   React  | JavaScript |  Redux | TypeScript | Tailwind | HTML | CSS | Bootstrap | Sass | Jira | Agile | Git | Medium Writer | Analytical Thinking
+Front End Developer </font>
+</br>
 <font color="pink">
--Developed interactive, responsive and scalable frontend using HTML5, CSS3, JavaScript ES6, React,
--Designing a website with HTML, CSS, SASS(SCSS) and Bootstrap-5 codes,
--Support HTML and CSS projects using JS Dom manipulation and event listeners,
--Requesting apis using Async, Await and Fetch structures to view data from various platforms,
--Enabling customers to make transactions on their websites using json, local storage, and array methods,
--Using state hook and component structures in various projects
--Working with React-router, bootstrap and axios libraries for user-friendly preparation of prepared websites,
--Combined Material UI and Semantic UI libraries to achieve better UI experience,
--State management applied using React States and Redux,
--Built a Dashboard page showing data related to users integrated with Database,
--Experienced in writing modular and reusable codes, using build tools and package managers,
--Studied on Computational Thinking, Operating Systems, Linux, Version Control Systems(Git & Github),</font>
+ I have a structure that focuses on his work, is highly motivated, and gives importance to the details of the work. I think my meticulousness is my biggest advantage when it comes to coding.
+</font>
+</br>
+<font color="pink">
+ 💬 Ask me about Web Frontend Development
+</font>
 </br>
 <font color="pink">🎆 Reading is my greatest pleasure in life. </font>
 </br>
